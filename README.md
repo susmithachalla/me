@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susmithachalla
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in growing my career towards Data Science field as Data everywhere. 
 - 🌱 I’m currently learning R Programming
 - 📫 How to reach me susmithachalla672@gmail.com
 
